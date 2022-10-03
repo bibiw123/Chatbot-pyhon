@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24366943-c575-4ffa-852d-8ffae066c42f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/acces.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/actualites.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/cgu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/communaute.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/espace-professionels.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/espace-recruteurs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/fiche-membre.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/mentions-legales.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/plan-site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/professionels.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/css/recruteurs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/fontawesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/img/img-membre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/img/slider1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/img/slider2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/img/slider3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/img/slider4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/img/slider5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/js/jquery.sldr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/js/slidescroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo_mon_premier_job/slider.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29cASThugTaZLUKl4ij9qqap56Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Projet chatbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projet-2-realiser-un-chatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projet chatbox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Projet chatbox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24366943-c575-4ffa-852d-8ffae066c42f" name="Changes" comment="" />
+      <created>1653402001112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653402001112</updated>
+    </task>
+    <servers />
+  </component>
+</project>
